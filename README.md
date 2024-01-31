@@ -1,7 +1,7 @@
 # Python-Diwali-Sales-Analysis
 Repository for Exploratory data analysis (EDA) projects using Python.
 
-Project Learning<br>
+## Project Learning<br>
 
 1- Performed data cleaning and manipulation of (11251, 15) data<br>
 2- Performed exploratory data analysis (EDA) using
